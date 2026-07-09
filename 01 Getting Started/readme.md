@@ -1,4 +1,4 @@
-# The Getting Started with IoT Course
+# Getting Started with IoT 
 
 The **Getting Started with IoT Kit** is structured into two practical modules, taking you from hardware assembly to programming real-world devices.
 
