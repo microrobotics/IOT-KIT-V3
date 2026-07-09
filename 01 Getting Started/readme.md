@@ -1,6 +1,7 @@
-### Getting Started with IoT 
+#### Getting Started with IoT 
 
-The **Getting Started with IoT Kit** is structured into two practical modules, taking you from hardware assembly to programming real-world devices.
+<small>
+The **Getting Started with IoT Kit** is structured into two practical modules, taking you from hardware assembly to programming real-world devices.</small>
 
 ### 1. ESP32 IoT Controller Assembly and Testing
 
